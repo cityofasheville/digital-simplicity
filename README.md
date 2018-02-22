@@ -1,4 +1,4 @@
-# digital-simplicity
+# Digital Simplicity Posts
 
 
 * [Shared Data, Shared Systems for Open Data: Get Everyone on the Same Page, Eric Jackson](./posts/shared-data-shared-systems-getting-everyone-page.md)
