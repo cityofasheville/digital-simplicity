@@ -10,22 +10,6 @@ The problem is that most data lives in silos – in complex enterprise applicati
 
 We are trying to fix that in Asheville by re-imagining and re-architecting the City’s information delivery systems as part of our open data program. At the root of the new design is a very simple idea. If we want everyone on the same page, we should just give them the same page, literally.
 
-You are here: Home / Open Data / Shared Data, Shared Systems for Open Data: Get Everyone on the Same Page
-Shared Data, Shared Systems for Open Data: Get Everyone on the Same Page
-BY ERIC JACKSON LEAVE A COMMENT
-Share
-0Share
-Tweet
-0Pin
-0Share
-142455033_49ce50a89b_zA major challenge for any large organization is to ensure that everyone is operating on the basis of a shared reality – that they can see the same information in the same way across the organization.
-
-That challenge is magnified when the organization is a local government who must share information not just internally but across the entire community. While having a shared reality certainly doesn’t prevent disagreements,  not having it makes it effectively impossible to resolve disagreements when they arise.
-
-The problem is that most data lives in silos – in complex enterprise applications, in spreadsheets on employees’ desktops, even in other organizations’ systems. Creating a common reality usually requires those inside the silos to push their information out for others’ use. The result: the quality of the organizations’ overall self-knowledge is in the hands of dozens or hundreds of individuals who are quite busy managing their own sub-realities. Even with the best of intentions by everyone, this rarely works well.
-
-We are trying to fix that in Asheville by re-imagining and re-architecting the City’s information delivery systems as part of our open data program. At the root of the new design is a very simple idea. If we want everyone on the same page, we should just give them the same page, literally.
-
 Take permitting for example. Why not let the city manager, the director of development services, a local developer, and any citizen all log into the same system and go to the same page to see performance against SLAs, for example, or to drill down to see individual permits? That’s exactly what we plan to do in the new systems.
 
 Briefly, our approach is to consolidate the information needed for open data reporting and management in a single repository and then to build shared systems on top of that.
