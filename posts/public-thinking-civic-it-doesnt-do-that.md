@@ -1,4 +1,4 @@
-# Public Thinking? Civic IT Doesn't DO That
+# Public Thinking? Civic IT Doesn't DO That!
 ### By Jonathan Feldman
 
 This won’t be the first time my colleagues look at me like I’m stark raving mad. It has happened before. It happened when Asheville’s IT staff put together a cloud computing community event in 2011; it happened when we published an open data catalog in 2012; and it may happen again when my colleagues in other municipal governments realize that my civic IT staff and I have launched a blog to document our civic IT aspirations, plans, achievements, and failures.
@@ -7,7 +7,7 @@ I can hear it now: Jonathan, what on earth are you DOING? Civic IT doesn’t _do
 
 Yes, it does. Let me explain.
 
-##Destination Digital
+## Destination Digital
 
 First, where are we, as a department, trying to go? How are we trying to change the conversation, and thus the direction and actions of our organization?
 
@@ -91,6 +91,7 @@ If you’re interested in being added to our notification list when new posts go
 
 —Jonathan Feldman, Chief Information Officer, City of Asheville, NC
 
-Originally published September 22, 2016.
+Originally published October 27, 2016.
 
-Tags: GIS, Lean Government, User-Centered Design
+Tags: Change Management, Civic IT, Digital Government, Digital Transformation, McKinsey, Open Collaboration
+
