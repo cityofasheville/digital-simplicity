@@ -1,6 +1,10 @@
 # Digital Simplicity Posts
 
+## 2017
+
 * [Whose Side Are You On? Digital Transformation of Civic Engagement](./posts/whose-side-are-you-on.md)
+
+## 2016
 * [New Hires Who Hit the Ground Running, Scott Barnwell](./posts/new-hires-who-hit-the-ground-running.md)
 * [Public Thinking? Civic IT Doesn't DO That!, Jonathan Feldman](./posts/public-thinking-civic-it-doesnt-do-that.md)
 * [Shared Data, Shared Systems for Open Data: Get Everyone on the Same Page, Eric Jackson](./posts/shared-data-shared-systems-getting-everyone-page.md)
