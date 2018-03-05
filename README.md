@@ -2,6 +2,7 @@
 
 ## 2017
 
+* [Asheville Open Data Day 2017: Realizing the Promise, Eric Jackson](./posts/asheville-open-data-day-2017.md)
 * [Whose Side Are You On? Digital Transformation of Civic Engagement](./posts/whose-side-are-you-on.md)
 
 ## 2016
