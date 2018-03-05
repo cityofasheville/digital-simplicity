@@ -21,12 +21,14 @@ That is our goal in sponsoring this year’s Open Data Day in partnership with C
 
 Stay tuned for more details in the coming weeks, but mark your calendars now:
 
-> __Asheville Open Data Day 2017__
-> 10AM – 2PM, Saturday, March 4, 2017
-> Linwood Crump – Shiloh Complex
-> 121 Shiloh Road, Asheville, NC 28804
+````
+  __Asheville Open Data Day 2017__
+  10AM – 2PM, Saturday, March 4, 2017
+  Linwood Crump – Shiloh Complex
+  121 Shiloh Road, Asheville, NC 28804
 
-> [RSVP on Meetup](https://www.meetup.com/Code-for-Asheville/events/237456574/)
+  [RSVP on Meetup](https://www.meetup.com/Code-for-Asheville/events/237456574/)
+````
 
 Originally published February 9, 2017.
 
