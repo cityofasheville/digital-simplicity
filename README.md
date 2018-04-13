@@ -11,4 +11,5 @@
 * [Letting Our Customers Teach Us What Simple Means, Christen McNamara](./posts/letting-customers-teach-us-simple-means.md)
 
 
+[Github Pages URL](https://cityofasheville.github.io/digital-simplicity/)
 
