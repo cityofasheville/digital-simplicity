@@ -2,6 +2,8 @@
 
 ## 2017
 
+* [Performance Metrics, Simplified, Jonathan Feldman](./posts/performance-metrics-simplified.md)
+* [Doing More With Less, Christen McNamara](./posts/doing-more-with-less.md)
 * [Treating Data Like a Strategic Asset, Eric Jackson](./posts/treating-data-like-a-strategic-asset.md)
 * [Asheville Open Data Day 2017: Realizing the Promise, Eric Jackson](./posts/asheville-open-data-day-2017.md)
 * [Whose Side Are You On? Digital Transformation of Civic Engagement](./posts/whose-side-are-you-on.md)
