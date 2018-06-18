@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [Power to the People: Easing Change Through End-User Guides, Holly Barham](./posts/end-user-guides.md)
 * [Busting Data Silos: Asset Management  ❤ Google Data Studio, Kevin Sisson](./posts/busting-silos.md)
 * [Exit Interview with Cameron Carlyle, Eric Jackson](./posts/exit-interview-cameron.md)
 * [Open Data Day 2017, Eric Jackson](./posts/open-data-day-2017.md)
