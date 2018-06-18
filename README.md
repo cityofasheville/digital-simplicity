@@ -1,8 +1,8 @@
 # Digital Simplicity Posts
 
 ## 2017
-
-* [Exit Interview with Cameron Carlyle](./posts/exit-interview-cameron.md)
+* [Busting Data Silos: Asset Management  ❤ Google Data Studio, Kevin Sisson](./posts/busting-silos.md)
+* [Exit Interview with Cameron Carlyle, Eric Jackson](./posts/exit-interview-cameron.md)
 * [Open Data Day 2017, Eric Jackson](./posts/open-data-day-2017.md)
 * [Performance Metrics, Simplified, Jonathan Feldman](./posts/performance-metrics-simplified.md)
 * [Doing More With Less, Christen McNamara](./posts/doing-more-with-less.md)
