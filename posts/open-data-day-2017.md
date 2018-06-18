@@ -47,3 +47,7 @@ Photo Credits: Paloma Toledo
 
 
 This post is cross-published on the [Code for Asheville blog](http://www.codeforasheville.org/open-data-day-2017/).
+
+Originally published March 9, 2017
+
+Tags: CIVIC TECH, CODE FOR AMERICA, DIGITAL GOVERNMENT, DIGITAL TRANSFORMATION, OPEN COLLABORATION, OPEN DATA

@@ -2,6 +2,7 @@
 
 ## 2017
 
+* [Exit Interview with Cameron Carlyle](./posts/exit-interview-cameron.md)
 * [Open Data Day 2017, Eric Jackson](./posts/open-data-day-2017.md)
 * [Performance Metrics, Simplified, Jonathan Feldman](./posts/performance-metrics-simplified.md)
 * [Doing More With Less, Christen McNamara](./posts/doing-more-with-less.md)
