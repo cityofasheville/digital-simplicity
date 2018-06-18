@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [Good Tech Skills Assessments Aren’t Sneaky, They’re Clear, Realistic & Respectful, Frances Ruiz](./posts/tech-skills-assessments.md)
 * [Power to the People: Easing Change Through End-User Guides, Holly Barham](./posts/end-user-guides.md)
 * [Busting Data Silos: Asset Management  ❤ Google Data Studio, Kevin Sisson](./posts/busting-silos.md)
 * [Exit Interview with Cameron Carlyle, Eric Jackson](./posts/exit-interview-cameron.md)
