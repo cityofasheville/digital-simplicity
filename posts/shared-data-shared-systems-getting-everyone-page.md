@@ -1,5 +1,5 @@
 # Shared Data, Shared Systems for Open Data: Get Everyone on the Same Page
-## By Eric Jackson
+### By Eric Jackson
 
 A major challenge for any large organization is to ensure that everyone is operating on the basis of a shared reality – that they can see the same information in the same way across the organization.
 ![By ryancr, Some rights reserved.](../assets/14245503349ce50a89bz-300x193.jpg)

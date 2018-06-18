@@ -19,4 +19,4 @@ Have you ever used GitHub for projects?
 
 Originally published February 15, 2017.
 
-Tag: data management, GIS, IT services, maps, open data
+Tags: data management, GIS, IT services, maps, open data
