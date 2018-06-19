@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [Digital Transformation: Permission vs Empowerment, Jonathan Feldman](./posts/permission-empowerment.md)
 * [Open Budgets Ho! The Way Forward for Online Budget Engagement, Eric Jackson](./posts/budget-engagement.md)
 * [What Won’t Work for #Digital Transformation (And What Will), Jonathan Feldman](./posts/digital-transformation.md)
 * [Women In Tech: Where The Meaningful Work Is, Christen McNamara](./posts/women-in-tech.md)
