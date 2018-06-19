@@ -1,7 +1,7 @@
 # Pretty Graphs Are Not Enough: Doing Dashboards Differently
 ### By Eric Jackson
 
-![Graph from SimpliCity showing housing of people experiencing homelessness](../assets/pretty-graph.jpg "Graph from SimpliCity showing housing of people experiencing homelessness")
+![Graph from SimpliCity showing housing of people experiencing homelessness](../assets/pretty-graph.png "Graph from SimpliCity showing housing of people experiencing homelessness")
 
 We are learning some valuable lessons in designing public dashboards. Here are a couple from our work on the [new homelessness dashboard](http://dashboards.ashevillenc.gov/homelessness), which we are soft-launching today for feedback from stakeholders.
 

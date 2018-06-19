@@ -7,7 +7,7 @@ It’s not something that I think about very often – our office is full of won
 
 The questions began very simply: what do you do, why and how did you get to where you are. The all-female panel introduced themselves one by one, and each had a unique but similar story: tech was a new career – they were there to start over or, they came in late in the game.  I found this fascinating, but we’ll save that for another post.
 
-![Southwestern Community College- Innovation Expo; Women in tech panel](../assets/christen-panel.jpg "Southwestern Community College- Innovation Expo; Women in tech panel")
+![Southwestern Community College- Innovation Expo; Women in tech panel](../assets/christen-panel.png "Southwestern Community College- Innovation Expo; Women in tech panel")
 
 As we got comfortable with one another, the panel switched roles and began asking the teachers questions and we became the listeners.
 

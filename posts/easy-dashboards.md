@@ -35,7 +35,7 @@ These broader goals are a good start, but we have to drill down to specifics. Wh
 
 Data visualizations are meaningless without context. In our homelessness dashboard, we tried to address certain contextual misconceptions that service providers often encounter. Service providers continually hear, “The point-in-time counts are always the same each year, so that means no one is doing anything about homelessness!” In reality, there is a lot of turnover in the homeless population – the counts do not reflect the same set of individuals every year. To provide this context, our dashboard explains that there is a large influx of new homeless people to the region every month.
 
-![Monthly inflow and outflow of homeless veterans](../assets/inflow-outflow.jpg "Monthly inflow and outflow of homeless veterans")
+![Monthly inflow and outflow of homeless veterans](../assets/inflow-outflow.png "Monthly inflow and outflow of homeless veterans")
 
 **Are we giving our audience what they need?**
 

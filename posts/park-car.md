@@ -1,7 +1,7 @@
 # Park Your Car With Open Data
 ### By Scott Barnwell
 
-![AVL Park app screenshot](../assets/avlpark.jpg "AVL Park app screenshot")
+![AVL Park app screenshot](../assets/avlpark.png "AVL Park app screenshot")
 
 As we work to promote the open data program at the City of Asheville, we sometimes wonder if and how data sets are being used by the community once they are released. All too often, our metrics are limited to the number of data set downloads from Asheville’s [Open Data Portal](http://data.ashevillenc.gov/). Fortunately, our civic tech community will occasionally delight us with an app powered with open data.
 
