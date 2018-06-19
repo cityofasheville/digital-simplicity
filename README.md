@@ -1,5 +1,7 @@
 # Digital Simplicity Posts
 
+### [About Digital Simplicity](./posts/About-Digital-Simplicity.md)
+
 ## 2017
 * [Could The Asheville App Be Banned?, Eric Jackson](./posts/asheville-app.md)
 * [Digital Transformation No-No: Executives Keeping Secrets from Employees, Jonathan Feldman](./posts/executive-secrets.md)
