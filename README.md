@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [A Civic Tech Employee’s First Weeks: the Welcome, the Workload, and What Needs Improvement, Frances Ruiz](./posts/first-weeks.md)
 * [Good Tech Skills Assessments Aren’t Sneaky, They’re Clear, Realistic & Respectful, Frances Ruiz](./posts/tech-skills-assessments.md)
 * [Power to the People: Easing Change Through End-User Guides, Holly Barham](./posts/end-user-guides.md)
 * [Busting Data Silos: Asset Management  ❤ Google Data Studio, Kevin Sisson](./posts/busting-silos.md)
