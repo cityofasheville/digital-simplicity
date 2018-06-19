@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [Digital Transformation No-No: Executives Keeping Secrets from Employees, Jonathan Feldman](./posts/executive-secrets.md)
 * [Maybe Women Just Don’t Like Computers, Frances Ruiz](./posts/women-computers.md)
 * [The Dangers of “Easy” Open Data Dashboards, Frances Ruiz](./posts/easy-dashboards.md)
 * [6 Reasons Why Your Performance Metrics Aren’t Working, Jonathan Feldman](./posts/performance-metrics.md)
