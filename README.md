@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [What Won’t Work for #Digital Transformation (And What Will), Jonathan Feldman](./posts/digital-transformation.md)
 * [Women In Tech: Where The Meaningful Work Is, Christen McNamara](./posts/women-in-tech.md)
 * [What a digital organization looks like, Eric Jackson](./posts/digital-organization.md)
 * [In the Digital Age, Who Powers Innovation?, Jonathan Feldman](./posts/powers-innovation.md)
