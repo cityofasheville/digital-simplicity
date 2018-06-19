@@ -1,7 +1,8 @@
 # Digital Simplicity Posts
 
 ## 2017
-* [The Measure of IT Success](./posts/measure-success.md)
+* [Beautiful Budgets: Gaps & Opportunities in Online Budget Engagement, Eric Jackson](./posts/beautiful-budgets.md)
+* [The Measure of IT Success, Eric Jackson](./posts/measure-success.md)
 * [Park Your Car With Open Data, Scott Barnwell](./posts/park-car.md)
 * [A Civic Tech Employee’s First Weeks: the Welcome, the Workload, and What Needs Improvement, Frances Ruiz](./posts/first-weeks.md)
 * [Good Tech Skills Assessments Aren’t Sneaky, They’re Clear, Realistic & Respectful, Frances Ruiz](./posts/tech-skills-assessments.md)
