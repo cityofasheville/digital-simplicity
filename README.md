@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [Digital Transformation: Perfection vs Iteration, Eric Jackson](./posts/perfection-iteration.md)
 * [Extending Gratitude Beyond Our Walls: External Partnerships That Matter, Scott Barnwell](./posts/gratitude-beyond.md)
 * [Digital Transformation: Controlling vs Inviting Conversation, Eric Jackson](./posts/controlling-inviting.md)
 * [Digital Transformation: Permission vs Empowerment, Jonathan Feldman](./posts/permission-empowerment.md)
