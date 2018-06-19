@@ -34,11 +34,11 @@ And THAT is why waiting to get it right is a huge waste of time. The only way to
 Until we do, we are probably analyzing, paralyzing, and perfecting the wrong thing.
 
 
-*Why is “digital transformation” so important? Because it is about transforming our organizations to mirror the way that society has already gone. 10 years ago, information might take days to be widely understood. Today,  Twitter gets the news out before the mainstream media even has it.
+*Why is “digital transformation” so important? Because it is about transforming our organizations to mirror the way that society has already gone. 10 years ago, information might take days to be widely understood. Today,  Twitter gets the news out before the mainstream media even has it.*
 
-If we do not match our organizations with what is already going on in society at large, our organizations will fail. They may not fail today, they may not fail tomorrow, but they will fail.
+*If we do not match our organizations with what is already going on in society at large, our organizations will fail. They may not fail today, they may not fail tomorrow, but they will fail.*
 
-This is a post in our weekly series on what we think won’t work for digital organizations and what will. Our original [tweetstorm](https://twitter.com/i/moments/878268741989130240?utm_content=buffer21152&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) listed 10 things. This series takes a deeper dive on those ten things — one per week. If you’d like to come along for the ride, sign up for updates at right. Or, continue the conversation with [@ejaxon](https://twitter.com/ejaxon) or [@_jfeldman](http://twitter.com/_jfeldman).*
+*This is a post in our weekly series on what we think won’t work for digital organizations and what will. Our original [tweetstorm](https://twitter.com/i/moments/878268741989130240?utm_content=buffer21152&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) listed 10 things. This series takes a deeper dive on those ten things — one per week. If you’d like to come along for the ride, sign up for updates at right. Or, continue the conversation with [@ejaxon](https://twitter.com/ejaxon) or [@_jfeldman](http://twitter.com/_jfeldman).*
 
 
 Originally published July 14, 2017
