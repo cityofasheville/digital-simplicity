@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [Could The Asheville App Be Banned?, Eric Jackson](./posts/asheville-app.md)
 * [Digital Transformation No-No: Executives Keeping Secrets from Employees, Jonathan Feldman](./posts/executive-secrets.md)
 * [Maybe Women Just Don’t Like Computers, Frances Ruiz](./posts/women-computers.md)
 * [The Dangers of “Easy” Open Data Dashboards, Frances Ruiz](./posts/easy-dashboards.md)
