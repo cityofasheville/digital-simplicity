@@ -54,7 +54,7 @@ Budget staff face a daunting task with limited resources in charged environments
 * Less expensive solutions for smaller governments
 * Easier bench-marking, information sharing, and analytics
 
-** So that’s my attempt to help map the way forward.
+**So that’s my attempt to help map the way forward.
 
 What do you think? What principles have I missed?
 

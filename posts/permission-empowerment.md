@@ -2,7 +2,7 @@
 ### By Jonathan Feldman
 
 
-* Post 2 of 10 in our weekly series on what we think won’t work for digital organizations and what will. *
+*Post 2 of 10 in our weekly series on what we think won’t work for digital organizations and what will.*
 
 Permission-based management means employees can’t do anything management hasn’t explicitly approved. Too many organizations still suffer toxic micromanagers to operate this way.
 
@@ -26,11 +26,11 @@ And these organizations also attract the very best employees: the ones who are a
 
 Call it “being digital” or call it being a modern, open organization. But it is clear what won’t work—and what does.
 
-* Why is “digital transformation” so important? Because it is about transforming our organizations to mirror the way that society has already gone. 10 years ago, information might take days to be widely understood. Today,  Twitter gets the news out before the mainstream media even has it.
+*Why is “digital transformation” so important? Because it is about transforming our organizations to mirror the way that society has already gone. 10 years ago, information might take days to be widely understood. Today,  Twitter gets the news out before the mainstream media even has it.
 
 If we do not match our organizations with what is already going on in society at large, our organizations will fail. They may not fail today, they may not fail tomorrow, but they will fail.
 
-This is a post in our weekly series on what we think won’t work for digital organizations and what will. Our original [tweetstorm](https://twitter.com/i/moments/878268741989130240?utm_content=buffer21152&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) listed 10 things. This series takes a deeper dive on those ten things — one per week. If you’d like to come along for the ride, sign up for updates at right. Or, continue the conversation with [@ejaxon](https://twitter.com/ejaxon) or [@_jfeldman](http://twitter.com/_jfeldman). *
+This is a post in our weekly series on what we think won’t work for digital organizations and what will. Our original [tweetstorm](https://twitter.com/i/moments/878268741989130240?utm_content=buffer21152&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) listed 10 things. This series takes a deeper dive on those ten things — one per week. If you’d like to come along for the ride, sign up for updates at right. Or, continue the conversation with [@ejaxon](https://twitter.com/ejaxon) or [@_jfeldman](http://twitter.com/_jfeldman).*
 
 
 Originally published June 30, 2017
