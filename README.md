@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [The Dangers of “Easy” Open Data Dashboards, Frances Ruiz](./posts/easy-dashboards.md)
 * [6 Reasons Why Your Performance Metrics Aren’t Working, Jonathan Feldman](./posts/performance-metrics.md)
 * [Pretty Graphs Are Not Enough: Doing Dashboards Differently, Eric Jackson](./posts/pretty-graphs.md)
 * [Digital Transformation: Perfection vs Iteration, Eric Jackson](./posts/perfection-iteration.md)
