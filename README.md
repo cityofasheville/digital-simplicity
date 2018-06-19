@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [Maybe Women Just Don’t Like Computers, Frances Ruiz](./posts/women-computers.md)
 * [The Dangers of “Easy” Open Data Dashboards, Frances Ruiz](./posts/easy-dashboards.md)
 * [6 Reasons Why Your Performance Metrics Aren’t Working, Jonathan Feldman](./posts/performance-metrics.md)
 * [Pretty Graphs Are Not Enough: Doing Dashboards Differently, Eric Jackson](./posts/pretty-graphs.md)
