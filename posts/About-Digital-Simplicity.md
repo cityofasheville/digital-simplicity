@@ -23,6 +23,6 @@ we are leaving the archive of Digital Simplicity here on Github for anyone who w
 
 With gratitude,
 
---Jonathan Feldman
-Chief Information Officer
+--Jonathan Feldman  
+Chief Information Officer  
 City of Asheville, NC
