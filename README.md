@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [Open Budgets Ho! The Way Forward for Online Budget Engagement, Eric Jackson](./posts/budget-engagement.md)
 * [What Won’t Work for #Digital Transformation (And What Will), Jonathan Feldman](./posts/digital-transformation.md)
 * [Women In Tech: Where The Meaningful Work Is, Christen McNamara](./posts/women-in-tech.md)
 * [What a digital organization looks like, Eric Jackson](./posts/digital-organization.md)
