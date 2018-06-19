@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [Pretty Graphs Are Not Enough: Doing Dashboards Differently, Eric Jackson](./posts/pretty-graphs.md)
 * [Digital Transformation: Perfection vs Iteration, Eric Jackson](./posts/perfection-iteration.md)
 * [Extending Gratitude Beyond Our Walls: External Partnerships That Matter, Scott Barnwell](./posts/gratitude-beyond.md)
 * [Digital Transformation: Controlling vs Inviting Conversation, Eric Jackson](./posts/controlling-inviting.md)
