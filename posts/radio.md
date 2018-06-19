@@ -7,7 +7,7 @@ In 2014 the City of Asheville was faced with a major public safety issue… our 
 Three years later and under budget, Asheville’s new Public Safety Radio System is up and running! Asheville’s Fire Chief Scott Brunette describes how the new radio system affects all City residents.
 
 
-(YouTube video of Fire Chief Scott Brunette speaking)[https://youtu.be/f09OF_kZBy0]
+[YouTube video of Fire Chief Scott Brunette speaking](https://youtu.be/f09OF_kZBy0)
 
 
 Originally published May 11, 2017
