@@ -1,6 +1,7 @@
 # Digital Simplicity Posts
 
 ## 2017
+* [Upgrade Alert: Asheville’s Public Safety Radio System](./posts/radio.md)
 * [Beautiful Budgets: Gaps & Opportunities in Online Budget Engagement, Eric Jackson](./posts/beautiful-budgets.md)
 * [The Measure of IT Success, Eric Jackson](./posts/measure-success.md)
 * [Park Your Car With Open Data, Scott Barnwell](./posts/park-car.md)
